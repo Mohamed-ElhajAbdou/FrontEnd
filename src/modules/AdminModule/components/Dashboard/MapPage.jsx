@@ -367,15 +367,4 @@ export const Mappage = () => {
   )
 }
 
-// function App() {
-//   return (
-//     <div>
-//       <h1>World Map</h1>
-//       <WorldMap />
-//     </div>
-//   );
-// }
-
-// export default App;
-
 
