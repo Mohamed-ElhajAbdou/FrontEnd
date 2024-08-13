@@ -358,10 +358,24 @@
 
 
 import React from 'react'
-import MapChart from '../../../../components/charts/MapChart'
+import WorldMap from '../../../../components/charts/WorldMap';
+// import MapChart from '../../../../components/charts/WorldMap'
 
 export const Mappage = () => {
   return (
-    <MapChart/>
+    <WorldMap/>
   )
 }
+
+// function App() {
+//   return (
+//     <div>
+//       <h1>World Map</h1>
+//       <WorldMap />
+//     </div>
+//   );
+// }
+
+// export default App;
+
+
